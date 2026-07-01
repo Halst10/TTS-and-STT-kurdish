@@ -1,0 +1,6 @@
+{
+  "name": "Kurdish Voice Assistant",
+  "description": "Kurdish Sorani Speech-to-Text, Text-to-Speech, and voice cloning platform with subscription limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
